@@ -1,0 +1,15 @@
+[submodule "activity_recognition_ros"]
+	path = activity_recognition_ros
+	url = https://github.com/HEART-MET/activity_recognition_ros.git
+[submodule "metrics_refbox"]
+	path = metrics_refbox
+	url = https://github.com/HEART-MET/metrics_refbox.git
+[submodule "metrics_refbox_msgs"]
+	path = metrics_refbox_msgs
+	url = https://github.com/HEART-MET/metrics_refbox_msgs.git
+[submodule "metrics_refbox_client"]
+	path = metrics_refbox_client
+	url = https://github.com/HEART-MET/metrics_refbox_client.git
+[submodule "rosbag_recorder"]
+	path = rosbag_recorder
+	url = https://github.com/HEART-MET/rosbag_recorder.git
